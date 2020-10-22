@@ -4,3 +4,5 @@ obj
 Temp
 Assembly-CSharp.csproj
 .vs
+Assets/StreamingAssets
+AssetBundles
